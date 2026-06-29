@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_zqb_lxn_sjc">
+    <title>How to Divide using JPS Calculater</title>
+    <shortdesc/>
+    <taskbody>
+        <prereq id="prereq_fxp_xyn_sjc">
+            <p/>
+        </prereq>
+        <context id="context_czm_n14_sjc">
+            <p/>
+        </context>
+        <steps id="steps_dzm_n14_sjc">
+            <step>
+                <cmd/>
+            </step>
+        </steps>
+        <result id="result_pgt_gzn_sjc">
+            <p/>
+        </result>
+        <example id="example_zy4_3zn_sjc"/>
+    </taskbody>
+</task>

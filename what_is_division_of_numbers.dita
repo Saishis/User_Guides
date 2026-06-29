@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_division_of_numbers">
+    <title>What is Division of Numbers</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>Division is a type of mathmatical calculation which is used to create groups of an object
+            such that, each group has the same quantity of the object. / or ÷ are the symbols for
+            division.</p>
+        <p>If you want to divide a number, write the calculation as "1st number" <b>÷</b> "2nd
+            number" = "result". Using this process, you find the number of objects in each group and
+            the number of it which can not be devided equally.<ul id="ul_cmg_jkv_sjc">
+                <li>Dividend : 1st number (The total number to be divided).</li>
+                <li>Divisor : 2nd number (The number of groups).</li>
+                <li>Quotient : Result (The number of items in each group)</li>
+                <li>Reminder : The amount left over object (if the number cannot be divided
+                    equally)</li>
+            </ul></p>
+        <note id="note_p2n_dz5_sjc">The dividend is always greater than the divisor in the process
+            of division.</note>
+        <example id="example_lx3_p55_sjc">Suppose you have 6 choclates in hand and you want to give
+            them to 2 of your friends, so that your friends get the same number of chocolates. Then,
+            you have to divide 6 by 2 (as you create 2 groups out of 6 chocolates). So you should
+            follow the below process:<ol id="ol_xf3_mv5_sjc">
+                <li>Write the numbers in a single line with ÷ in between them; 6 ÷ 2 = ?</li>
+                <li>Give one chocolate to each of your friends. Do the same till you have no
+                    chocolate with you.</li>
+                <li>You can see that there are 3 chocolates with each of your friends.</li>
+            </ol><p>So, the result is "3".</p></example>
+    </conbody>
+</concept>

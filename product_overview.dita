@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="product_overview">
+    <title>Product Overview</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>JPC is a mobile/desktop application used to carry out the following mathmatical
+            calculations:</p>
+        <ul id="ul_n3t_1t5_sjc">
+            <li>Addition</li>
+            <li>Subtraction</li>
+            <li>Multiplication</li>
+            <li>Division</li>
+            <li>Percentage</li>
+            <li>Square root</li>
+        </ul>
+        <fig id="fig_r1m_frb_tjc">
+            <image placement="break" href="../../../../../Downloads/Calculater.png" width="50mm"
+                height="70mm" id="image_ncl_jrb_tjc"/>
+        </fig>
+        <p>You can use this application instead of manually calculating the numbers. This saves a
+            lot of time ad effort, thus enhancing the productivity.</p>
+    </conbody>
+</concept>

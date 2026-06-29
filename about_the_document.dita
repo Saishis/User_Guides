@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="about_the_document">
+    <title>About the Document</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>This document contains information about a very basic application called Just Plain
+            Calculaer (JPC). It can be used by any one who wants to:</p>
+        <ul id="ul_tnl_ks5_sjc">
+            <li>Learn the concept of the mathmatical calculations (addition, subtraction,
+                multilplication and devision).</li>
+            <li>Use the JPC application to add, subtract, multiply and divide the numbers.</li>
+        </ul>
+    </conbody>
+</concept>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_subtraction_of_numbers">
+    <title>What is Subtraction of Numbers</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>Subtraction is a type of mathmatical calculation which is used to find the quantity of
+            something left in a lot, after some of it is removed from the lot. - is the symbol for
+            addition.</p>
+        <p>If you want to subtract two numbers, write the calculation as "1st number" <b>-</b> "2nd
+            number" = "result".</p>
+        <note id="note_p2n_dz5_sjc">Usually, the 1st number is greater than the 2nd number in the
+            process of subtraction.</note>
+        <example id="example_lx3_p55_sjc">Suppose you have 3 choclates in hand and you put 2
+            choclates back in the chocolate jar. Now you want to know how many chocolates you have
+            in hand. Then, you want to subtract 2 from 3 (as you removed 2 out of 3 chocolates). So
+            you should follow the below process:<ol id="ol_xf3_mv5_sjc">
+                <li>Write the numbers in a single line with - in between them; 3 - 2 = ?</li>
+                <li>Count 2 numbers which comes before 3 backwards; 2 and 1.</li>
+            </ol><p>So, the result is "1".</p></example>
+    </conbody>
+</concept>
